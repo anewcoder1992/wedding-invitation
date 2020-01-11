@@ -22,9 +22,6 @@ function App() {
        Wedding invitation
     </h2>
       <img src={lzc} className="App-logo" alt="logo" width={200} height={240}/>
-      <RotateInDiv>
-       <img src={lzc} alt='lzc' width={200} height={240} />
-       </RotateInDiv>
     </header>
     <main className="App-header">
       <PictureContainer >
